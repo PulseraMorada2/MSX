@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "9c728e09-dcb1-391c-a395-205b4e5ba0c1",
+    "name": "PinwinoECI",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1176,3 +1176,20 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [27Nov2024 16:14:20.887] [Server thread/WARN] [jeg/]: literal{PinwinoECI}(9c728e09-dcb1-391c-a395-205b4e5ba0c1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [27Nov2024 16:14:28.076] [Server thread/WARN] [jeg/]: literal{PinwinoECI}(9c728e09-dcb1-391c-a395-205b4e5ba0c1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [27Nov2024 16:15:02.689] [Server thread/WARN] [jeg/]: literal{PinwinoECI}(9c728e09-dcb1-391c-a395-205b4e5ba0c1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 106
+[27Nov2024 16:20:12.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PinwinoECI lost connection: Disconnected
+[27Nov2024 16:20:12.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PinwinoECI left the game
+[27Nov2024 16:20:12.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PinwinoECI
+[27Nov2024 16:22:59.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PinwinoECI[/127.64.7.220:43417] logged in with entity id 1651 at (91.25062227154802, 63.0, 161.56457204285783)
+[27Nov2024 16:22:59.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PinwinoECI joined the game
+[27Nov2024 16:22:59.220] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to PinwinoECI
+[27Nov2024 16:22:59.697] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from PinwinoECI
+[27Nov2024 16:22:59.707] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PinwinoECI (18)
+[27Nov2024 16:22:59.712] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PinwinoECI
+[27Nov2024 16:23:04.483] [Server thread/INFO] [do_a_barrel_roll/]: Client of PinwinoECI accepted server config.
+[27Nov2024 16:23:04.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c728e09-dcb1-391c-a395-205b4e5ba0c1
+[27Nov2024 16:23:05.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c728e09-dcb1-391c-a395-205b4e5ba0c1
+[27Nov2024 16:23:05.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PinwinoECI (9c728e09-dcb1-391c-a395-205b4e5ba0c1) successfully connected to voice chat
+[27Nov2024 16:23:34.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[27Nov2024 16:24:35.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PinwinoECI lost connection: Disconnected
+[27Nov2024 16:24:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PinwinoECI left the game
+[27Nov2024 16:24:35.032] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PinwinoECI

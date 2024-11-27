@@ -51,6 +51,7 @@
     "criteria": {
       "minecraft:snowy_plains": "2024-11-27 16:13:02 +0000",
       "minecraft:snowy_taiga": "2024-11-27 05:34:09 +0000",
+      "minecraft:frozen_ocean": "2024-11-27 16:17:25 +0000",
       "minecraft:snowy_beach": "2024-11-27 05:34:50 +0000"
     },
     "done": false
@@ -73,6 +74,18 @@
     },
     "done": true
   },
+  "jeg:double_barrel_shotgun": {
+    "criteria": {
+      "Item": "2024-11-27 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2024-11-27 16:14:18 +0000"
+    },
+    "done": true
+  },
   "jeg:holy_shotgun": {
     "criteria": {
       "Item": "2024-11-27 16:14:40 +0000"
@@ -85,21 +98,9 @@
     },
     "done": true
   },
-  "jeg:burst_rifle": {
+  "jeg:bolt_action_rifle": {
     "criteria": {
-      "Item": "2024-11-27 16:14:52 +0000"
-    },
-    "done": true
-  },
-  "jeg:custom_smg": {
-    "criteria": {
-      "Item": "2024-11-27 16:14:18 +0000"
-    },
-    "done": true
-  },
-  "jeg:double_barrel_shotgun": {
-    "criteria": {
-      "Item": "2024-11-27 16:14:17 +0000"
+      "Item": "2024-11-27 16:14:47 +0000"
     },
     "done": true
   },
@@ -109,11 +110,125 @@
     },
     "done": true
   },
-  "jeg:bolt_action_rifle": {
+  "jeg:burst_rifle": {
     "criteria": {
-      "Item": "2024-11-27 16:14:47 +0000"
+      "Item": "2024-11-27 16:14:52 +0000"
     },
     "done": true
+  },
+  "jeg:blossom_rifle": {
+    "criteria": {
+      "Item": "2024-11-27 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2024-11-27 16:16:38 +0000"
+    },
+    "done": true
+  },
+  "jeg:repeating_shotgun": {
+    "criteria": {
+      "Item": "2024-11-27 16:16:40 +0000"
+    },
+    "done": true
+  },
+  "jeg:revolver": {
+    "criteria": {
+      "Item": "2024-11-27 16:16:54 +0000"
+    },
+    "done": true
+  },
+  "jeg:waterpipe_shotgun": {
+    "criteria": {
+      "Item": "2024-11-27 16:16:56 +0000"
+    },
+    "done": true
+  },
+  "jeg:semi_auto_rifle": {
+    "criteria": {
+      "Item": "2024-11-27 16:16:59 +0000"
+    },
+    "done": true
+  },
+  "jeg:service_rifle": {
+    "criteria": {
+      "Item": "2024-11-27 16:17:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:24:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

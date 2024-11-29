@@ -1,9 +1,33 @@
 {
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "create:root": {
     "criteria": {
@@ -17,15 +41,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
   },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
   },
@@ -35,53 +83,173 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_plains": "2024-11-29 14:52:00 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-11-29 14:51:13 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
@@ -91,13 +259,55 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 15:34:42 +0000"
+    },
+    "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-11-29 14:51:12 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-11-29 15:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
     },
     "done": true
   },
@@ -107,17 +317,65 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-29 15:34:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-11-29 14:51:13 +0000"
     },
     "done": false
   },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
@@ -125,11 +383,41 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 15:26:06 +0000"
+      "log_spam_fixer": "2024-11-29 15:36:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -137,9 +425,33 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-29 14:51:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 15:34:36 +0000"
     },
     "done": true
   },
@@ -151,6 +463,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-11-29 15:34:24 +0000",
       "minecraft:ocean": "2024-11-29 15:12:48 +0000"
     },
     "done": false

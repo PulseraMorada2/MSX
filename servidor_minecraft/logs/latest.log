@@ -1610,3 +1610,6 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [29Nov2024 15:26:49.152] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [29Nov2024 15:26:49.153] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [29Nov2024 15:28:24.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[29Nov2024 15:33:12.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LE4NN12 lost connection: Disconnected
+[29Nov2024 15:33:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LE4NN12 left the game
+[29Nov2024 15:33:12.956] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LE4NN12

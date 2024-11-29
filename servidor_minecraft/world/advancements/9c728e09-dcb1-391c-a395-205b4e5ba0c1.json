@@ -1,85 +1,79 @@
 {
   "create:root": {
     "criteria": {
-      "0": "2024-11-29 14:32:59 +0000"
+      "0": "2024-11-29 14:51:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-11-29 14:32:59 +0000"
+      "unlock_right_away": "2024-11-29 14:51:12 +0000"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "clover_patch": "2024-11-29 14:33:00 +0000"
+      "clover_patch": "2024-11-29 14:51:13 +0000"
     },
     "done": true
   },
   "mca:root": {
     "criteria": {
-      "village_plains": "2024-11-29 14:33:00 +0000"
+      "village_plains": "2024-11-29 14:52:00 +0000"
     },
     "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 14:33:00 +0000"
+      "log_spam_fixer": "2024-11-29 14:51:13 +0000"
     },
     "done": false
   },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
-      "tick": "2024-11-29 14:32:59 +0000"
+      "tick": "2024-11-29 14:51:12 +0000"
     },
     "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
-      "requirement": "2024-11-29 14:32:59 +0000"
+      "requirement": "2024-11-29 14:51:12 +0000"
     },
     "done": true
   },
   "bakery:main/root": {
     "criteria": {
-      "seeds": "2024-11-29 14:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-11-29 14:35:10 +0000"
+      "seeds": "2024-11-29 14:51:12 +0000"
     },
     "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 14:33:00 +0000"
+      "log_spam_fixer": "2024-11-29 14:51:13 +0000"
     },
     "done": false
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "clover_patch": "2024-11-29 14:33:00 +0000"
+      "clover_patch": "2024-11-29 14:51:13 +0000"
     },
     "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 14:33:00 +0000"
+      "log_spam_fixer": "2024-11-29 14:51:13 +0000"
     },
     "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2024-11-29 14:32:59 +0000"
+      "seeds": "2024-11-29 14:51:12 +0000"
     },
     "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 14:33:00 +0000"
+      "log_spam_fixer": "2024-11-29 14:51:13 +0000"
     },
     "done": false
   },

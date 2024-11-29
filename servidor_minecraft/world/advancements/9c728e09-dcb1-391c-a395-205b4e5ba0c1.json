@@ -1,4 +1,10 @@
 {
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
   "create:root": {
     "criteria": {
       "0": "2024-11-29 14:51:12 +0000"
@@ -10,6 +16,18 @@
       "unlock_right_away": "2024-11-29 14:51:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
@@ -23,6 +41,42 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-11-29 14:51:13 +0000"
@@ -34,6 +88,12 @@
       "tick": "2024-11-29 14:51:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
   },
   "incendium:technical/new_player": {
     "criteria": {
@@ -53,9 +113,21 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2024-11-29 14:51:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 15:16:06 +0000"
     },
     "done": false
   },
@@ -74,6 +146,12 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-11-29 14:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:ocean": "2024-11-29 15:12:48 +0000"
     },
     "done": false
   },

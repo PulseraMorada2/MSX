@@ -4,5 +4,11 @@
     "name": "PinwinoECI",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b41ba06-16a4-3ac8-9bb1-f216d908c3bf",
+    "name": "LE4NN12",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

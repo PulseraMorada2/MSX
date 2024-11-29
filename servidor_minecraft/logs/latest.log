@@ -1588,3 +1588,25 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [29Nov2024 15:15:50.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [29Nov2024 15:18:03.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LE4NN12> pingui
 [29Nov2024 15:18:08.536] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:19:40.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[29Nov2024 15:21:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PinwinoECI> mandame mensaje al discord
+[29Nov2024 15:21:48.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PinwinoECI> aqui no estoy pendiente
+[29Nov2024 15:23:38.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LE4NN12 has made the advancement [A Bag full of Strawberries!]
+[29Nov2024 15:23:41.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LE4NN12 has made the advancement [A Bag full of Oat!]
+[29Nov2024 15:25:34.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[29Nov2024 15:26:42.270] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.271] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.299] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.299] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.300] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.457] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.458] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:42.458] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:48.314] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:48.317] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:48.319] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:48.320] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:48.321] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:49.152] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:26:49.153] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[29Nov2024 15:28:24.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "bakery:main/place_strawberry_crate": {
+    "criteria": {
+      "strawberry_crate": "2024-11-29 15:23:38 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-11-29 15:10:29 +0000"
@@ -92,6 +98,12 @@
   "bakery:recipes/butter": {
     "criteria": {
       "has_water_bucket": "2024-11-29 15:15:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-11-29 15:25:50 +0000"
     },
     "done": true
   },
@@ -413,9 +425,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-11-29 15:18:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-11-29 15:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-11-29 15:25:50 +0000"
     },
     "done": true
   },
@@ -791,9 +815,21 @@
     },
     "done": true
   },
+  "bakery:recipes/oat_slab": {
+    "criteria": {
+      "has_oat_block": "2024-11-29 15:23:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
       "has_planks": "2024-11-29 15:14:19 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/place_oat_crate": {
+    "criteria": {
+      "oat_crate": "2024-11-29 15:23:41 +0000"
     },
     "done": true
   },
@@ -947,6 +983,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-29 15:25:50 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_stairs": {
+    "criteria": {
+      "has_oat_block": "2024-11-29 15:23:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-11-29 15:15:35 +0000"
@@ -962,6 +1010,12 @@
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2024-11-29 15:10:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-11-29 15:25:50 +0000"
     },
     "done": true
   },
@@ -986,6 +1040,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2024-11-29 15:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-11-29 15:25:50 +0000"
     },
     "done": true
   },
@@ -1049,6 +1109,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-11-29 15:25:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2024-11-29 15:14:19 +0000"
@@ -1088,6 +1154,12 @@
   "biomeswevegone:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-11-29 15:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-11-29 15:25:50 +0000"
     },
     "done": true
   },
@@ -1220,6 +1292,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-29 15:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-29 15:25:50 +0000"
     },
     "done": true
   },

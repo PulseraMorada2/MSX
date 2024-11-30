@@ -1387,5 +1387,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 01:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-11-30 01:25:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
